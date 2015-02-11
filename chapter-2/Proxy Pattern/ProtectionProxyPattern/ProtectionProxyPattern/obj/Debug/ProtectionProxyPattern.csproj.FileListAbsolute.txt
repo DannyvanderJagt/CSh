@@ -1,0 +1,11 @@
+c:\users\thomas\documents\visual studio 2012\Projects\ProtectionProxyPattern\ProtectionProxyPattern\bin\Debug\ProtectionProxyPattern.exe.config
+c:\users\thomas\documents\visual studio 2012\Projects\ProtectionProxyPattern\ProtectionProxyPattern\bin\Debug\ProtectionProxyPattern.exe
+c:\users\thomas\documents\visual studio 2012\Projects\ProtectionProxyPattern\ProtectionProxyPattern\bin\Debug\ProtectionProxyPattern.pdb
+c:\users\thomas\documents\visual studio 2012\Projects\ProtectionProxyPattern\ProtectionProxyPattern\obj\Debug\ProtectionProxyPattern.exe
+c:\users\thomas\documents\visual studio 2012\Projects\ProtectionProxyPattern\ProtectionProxyPattern\obj\Debug\ProtectionProxyPattern.pdb
+C:\Users\rudi\Dropbox\Bedenk maar iets moois\Design Patterns\Hoofdstukken\Hoofdstuk 1 en 2\ProtectionProxyPattern\ProtectionProxyPattern\bin\Debug\ProtectionProxyPattern.exe.config
+C:\Users\rudi\Dropbox\Bedenk maar iets moois\Design Patterns\Hoofdstukken\Hoofdstuk 1 en 2\ProtectionProxyPattern\ProtectionProxyPattern\bin\Debug\ProtectionProxyPattern.exe
+C:\Users\rudi\Dropbox\Bedenk maar iets moois\Design Patterns\Hoofdstukken\Hoofdstuk 1 en 2\ProtectionProxyPattern\ProtectionProxyPattern\bin\Debug\ProtectionProxyPattern.pdb
+C:\Users\rudi\Dropbox\Bedenk maar iets moois\Design Patterns\Hoofdstukken\Hoofdstuk 1 en 2\ProtectionProxyPattern\ProtectionProxyPattern\obj\Debug\ProtectionProxyPattern.csprojResolveAssemblyReference.cache
+C:\Users\rudi\Dropbox\Bedenk maar iets moois\Design Patterns\Hoofdstukken\Hoofdstuk 1 en 2\ProtectionProxyPattern\ProtectionProxyPattern\obj\Debug\ProtectionProxyPattern.exe
+C:\Users\rudi\Dropbox\Bedenk maar iets moois\Design Patterns\Hoofdstukken\Hoofdstuk 1 en 2\ProtectionProxyPattern\ProtectionProxyPattern\obj\Debug\ProtectionProxyPattern.pdb
