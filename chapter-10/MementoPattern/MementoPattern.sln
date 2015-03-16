@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MementoPattern", "MementoPattern\MementoPattern.csproj", "{8F3D3C33-148A-4D8C-9B80-60B90BA1299A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8F3D3C33-148A-4D8C-9B80-60B90BA1299A}.Debug|x86.ActiveCfg = Debug|x86
+		{8F3D3C33-148A-4D8C-9B80-60B90BA1299A}.Debug|x86.Build.0 = Debug|x86
+		{8F3D3C33-148A-4D8C-9B80-60B90BA1299A}.Release|x86.ActiveCfg = Release|x86
+		{8F3D3C33-148A-4D8C-9B80-60B90BA1299A}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = MementoPattern\MementoPattern.csproj
+	EndGlobalSection
+EndGlobal
