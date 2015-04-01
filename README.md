@@ -1,3 +1,5 @@
+!!! De eindopdrachten kunnen worden geplaatst in de map eindopdrachten !!!
+
 # C# Design Patterns
 Een gezamelijke repository voor het vak C# Design Patterns.
 
