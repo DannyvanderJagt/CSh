@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" xmlns:dm1="http://schemas.microsoft.com/dsltools/Kernel" xmlns:dm2="http://schemas.microsoft.com/dsltools/Component" xmlns:dm3="http://schemas.microsoft.com/dsltools/UseCase" xmlns:dm4="http://schemas.microsoft.com/dsltools/Activity" xmlns:dm5="http://schemas.microsoft.com/dsltools/Interaction" xmlns:dm6="http://schemas.microsoft.com/dsltools/UmlModelLibrary" xmlns:dm7="http://schemas.microsoft.com/dsltools/UmlDiagrams" xmlns:dm8="http://schemas.microsoft.com/dsltools/LogicalClassDesigner"
+  dslVersion="1.0.0.0"
+  Id="3fb440a8-a498-440e-875b-307d00a2c2c8"
+  name="NetworkTime"
+  visibility="Private" xmlns="http://schemas.microsoft.com/dsltools/ModelStore">
+  <referencesInternal>
+    <reference
+      Id="09db0472-647c-480b-a6a1-6410d997851c"
+      handle="viewcode://./CodeSchema_Namespace?Namespace%3DDigitalWatch.NetworkTime"
+      tag="ViewCode" />
+  </referencesInternal>
+  <packagedElements>
+    <packageHasNamedElement>
+      <class
+        Id="8d5e7ba5-ecd5-46c5-9844-8accb6fd90b7"
+        name="NetworkTimeClient"
+        isAbstract="false"
+        isLeaf="false"
+        isActiveClass="false">
+        <referencesInternal>
+          <reference
+            Id="c0353848-0641-4ca3-88e3-01eb9c5fade8"
+            handle="viewcode://./CodeSchema_Class?Assembly%3D&quot;file:%2F%2F%2FD:%2FDropbox%2FKernwerk%2FDigital Watch%2FDigitalWatch%2FDigitalWatch%2Fbin%2FDebug%2FDigitalWatch.exe&quot; Namespace%3DDigitalWatch.NetworkTime Type%3DNetworkTimeClient"
+            tag="ViewCode" />
+        </referencesInternal>
+        <appliedStereotypesInternal>
+          <stereotypeInstance
+            Id="c3d4de5d-3bcf-42a5-bfaf-d88c6b00da1a"
+            name="class"
+            profile="CSharpProfile">
+            <propertyInstances>
+              <stereotypeInstanceHasPropertyInstances
+                Id="cdb8b93d-0769-41fe-bab9-12fde714257d">
+                <propertyInstance
+                  Id="cbd67372-881a-4ec6-b344-7ba7d5a321d3"
+                  name="ClrAttributes" />
+              </stereotypeInstanceHasPropertyInstances>
+              <stereotypeInstanceHasPropertyInstances
+                Id="e0a051ff-7278-48dc-b373-70763a5c6d3e">
+                <propertyInstance
+                  Id="69cf117b-7ae4-4067-b19c-d14ce3bff097"
+                  name="IsPartial"
+                  value="false" />
+              </stereotypeInstanceHasPropertyInstances>
+              <stereotypeInstanceHasPropertyInstances
+                Id="3b004331-5d44-47b7-bb95-d079a2f79465">
+                <propertyInstance
+                  Id="a73d6bee-c1a2-4740-bc9e-6c336937b42c"
+                  name="IsStatic"
+                  value="False" />
+              </stereotypeInstanceHasPropertyInstances>
+              <stereotypeInstanceHasPropertyInstances
+                Id="04c12999-89e7-42c2-bdd8-0385e3965907">
+                <propertyInstance
+                  Id="13f9a96c-3e74-4513-af91-360207f34a88"
+                  name="IsUnsafe"
+                  value="false" />
+              </stereotypeInstanceHasPropertyInstances>
+              <stereotypeInstanceHasPropertyInstances
+                Id="630a59d3-7399-49d6-bb8c-11d64c685950">
+                <propertyInstance
+                  Id="c267a6e5-f656-4e16-a6de-15a6c824ce30"
+                  name="PackageVisibility"
+                  value="internal" />
+              </stereotypeInstanceHasPropertyInstances>
+            </propertyInstances>
+          </stereotypeInstance>
+        </appliedStereotypesInternal>
+      </class>
+    </packageHasNamedElement>
+  </packagedElements>
+</package>

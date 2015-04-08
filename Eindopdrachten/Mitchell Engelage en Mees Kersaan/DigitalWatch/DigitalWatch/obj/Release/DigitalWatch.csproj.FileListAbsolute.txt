@@ -1,0 +1,11 @@
+C:\Users\Mees\Dropbox\Kernwerk\Digital Watch\DigitalWatch\DigitalWatch\bin\Release\DigitalWatch.exe.config
+C:\Users\Mees\Dropbox\Kernwerk\Digital Watch\DigitalWatch\DigitalWatch\bin\Release\DigitalWatch.exe
+C:\Users\Mees\Dropbox\Kernwerk\Digital Watch\DigitalWatch\DigitalWatch\bin\Release\DigitalWatch.pdb
+C:\Users\Mees\Dropbox\Kernwerk\Digital Watch\DigitalWatch\DigitalWatch\bin\Release\WindowsFormsControlLibrary1.dll
+C:\Users\Mees\Dropbox\Kernwerk\Digital Watch\DigitalWatch\DigitalWatch\bin\Release\WindowsFormsControlLibrary1.pdb
+C:\Users\Mees\Dropbox\Kernwerk\Digital Watch\DigitalWatch\DigitalWatch\obj\Release\DigitalWatch.csprojResolveAssemblyReference.cache
+C:\Users\Mees\Dropbox\Kernwerk\Digital Watch\DigitalWatch\DigitalWatch\obj\Release\DigitalWatch.Watch.resources
+C:\Users\Mees\Dropbox\Kernwerk\Digital Watch\DigitalWatch\DigitalWatch\obj\Release\DigitalWatch.Properties.Resources.resources
+C:\Users\Mees\Dropbox\Kernwerk\Digital Watch\DigitalWatch\DigitalWatch\obj\Release\DigitalWatch.csproj.GenerateResource.Cache
+C:\Users\Mees\Dropbox\Kernwerk\Digital Watch\DigitalWatch\DigitalWatch\obj\Release\DigitalWatch.exe
+C:\Users\Mees\Dropbox\Kernwerk\Digital Watch\DigitalWatch\DigitalWatch\obj\Release\DigitalWatch.pdb

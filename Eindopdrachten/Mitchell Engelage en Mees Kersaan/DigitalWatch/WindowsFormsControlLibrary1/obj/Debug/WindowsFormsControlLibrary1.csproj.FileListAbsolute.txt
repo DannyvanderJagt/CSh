@@ -1,0 +1,14 @@
+C:\Users\Tevlon\Dropbox\OO\Digital Watch visual studio\WindowsFormsControlLibrary1\bin\Debug\WindowsFormsControlLibrary1.dll
+C:\Users\Tevlon\Dropbox\OO\Digital Watch visual studio\WindowsFormsControlLibrary1\bin\Debug\WindowsFormsControlLibrary1.pdb
+C:\Users\Tevlon\Dropbox\OO\Digital Watch visual studio\WindowsFormsControlLibrary1\obj\Debug\WindowsFormsControlLibrary1.csproj.GenerateResource.Cache
+C:\Users\Tevlon\Dropbox\OO\Digital Watch visual studio\WindowsFormsControlLibrary1\obj\Debug\WindowsFormsControlLibrary1.dll
+C:\Users\Tevlon\Dropbox\OO\Digital Watch visual studio\WindowsFormsControlLibrary1\obj\Debug\WindowsFormsControlLibrary1.pdb
+C:\Users\Tevlon\Dropbox\OO\Digital Watch visual studio\WindowsFormsControlLibrary1\obj\Debug\WindowsFormsControlLibrary1.csprojResolveAssemblyReference.cache
+C:\Users\Tevlon\Dropbox\OO\Digital Watch visual studio\WindowsFormsControlLibrary1\obj\Debug\WindowsFormsControlLibrary1.SegmentDisplay.resources
+D:\Dropbox\Kernwerk\DigitalWatch\WindowsFormsControlLibrary1\bin\Debug\WindowsFormsControlLibrary1.dll
+D:\Dropbox\Kernwerk\DigitalWatch\WindowsFormsControlLibrary1\bin\Debug\WindowsFormsControlLibrary1.pdb
+D:\Dropbox\Kernwerk\DigitalWatch\WindowsFormsControlLibrary1\obj\Debug\WindowsFormsControlLibrary1.csprojResolveAssemblyReference.cache
+D:\Dropbox\Kernwerk\DigitalWatch\WindowsFormsControlLibrary1\obj\Debug\WindowsFormsControlLibrary1.SegmentDisplay.resources
+D:\Dropbox\Kernwerk\DigitalWatch\WindowsFormsControlLibrary1\obj\Debug\WindowsFormsControlLibrary1.csproj.GenerateResource.Cache
+D:\Dropbox\Kernwerk\DigitalWatch\WindowsFormsControlLibrary1\obj\Debug\WindowsFormsControlLibrary1.dll
+D:\Dropbox\Kernwerk\DigitalWatch\WindowsFormsControlLibrary1\obj\Debug\WindowsFormsControlLibrary1.pdb

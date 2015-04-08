@@ -1,0 +1,152 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///C:/PROGRAM FILES (X86)/MICROSOFT VISUAL STUDIO 12.0/COMMON7/IDE/EXTENSIONS/MICROSOFT/ARCHITECTURE TOOLS/EXTENSIBILITY/Logging/ReverseEngineeringLog.xslt"?>
+<Log xmlns="http://schemas.microsoft.com/VisualStudio/2010/CodeGen.RE.Log" Label="Code Generation/Text Transformation Log">
+  <MessageClass Name="Message" Label="Message" Option="Show informational messages" />
+  <MessageClass Name="Warning" Label="Warning" Option="Show warnings" />
+  <MessageClass Name="Error" Label="Error" Option="Show errors" />
+  <MessageClass Name="Property" Label="Property" Option="Show metadata" />
+  <MessageClass Name="Diagnostic" Label="Message" Option="Show diagnostic messages" />
+  <Message Timestamp="2015-03-31T12:29:15" Importance="High" Text="Reverse Engineering Started." />
+  <Message Timestamp="2015-03-31T12:29:20" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'Boolean' -  (PrimitiveType)" />
+  <Message Timestamp="2015-03-31T12:29:20" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'Integer' -  (PrimitiveType)" />
+  <Message Timestamp="2015-03-31T12:29:20" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::DigitalWatch' -  (Package)" />
+  <Message Timestamp="2015-03-31T12:29:20" Importance="Medium" Text="Element reverse engineered into the UML model: 'ModelingProject1::DigitalWatch::API' -  (Class)" />
+  <Message Timestamp="2015-03-31T12:29:20" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::DigitalWatch::API::API' -  (Operation)" />
+  <Message Timestamp="2015-03-31T12:29:20" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::DigitalWatch::API::doAction' -  (Operation)" />
+  <Message Timestamp="2015-03-31T12:29:20" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::DigitalWatch::API::doAction::networkTimeClient' -  (Parameter)" />
+  <Message Timestamp="2015-03-31T12:29:20" Importance="Medium" Text="Element reverse engineered into the UML model: 'ModelingProject1::DigitalWatch::Display' -  (Class)" />
+  <Message Timestamp="2015-03-31T12:29:20" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::DigitalWatch::Display::Display' -  (Operation)" />
+  <Message Timestamp="2015-03-31T12:29:20" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::DigitalWatch::Display::segmentDisplays' -  (Property)" />
+  <Message Timestamp="2015-03-31T12:29:20" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::DigitalWatch::Display::updateTime' -  (Operation)" />
+  <Message Timestamp="2015-03-31T12:29:20" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::DigitalWatch::Display::updateTime::hour' -  (Parameter)" />
+  <Message Timestamp="2015-03-31T12:29:20" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::DigitalWatch::Display::updateTime::minute' -  (Parameter)" />
+  <Message Timestamp="2015-03-31T12:29:20" Importance="Medium" Text="Element reverse engineered into the UML model: 'ModelingProject1::DigitalWatch::GetTime' -  (Class)" />
+  <Message Timestamp="2015-03-31T12:29:20" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::DigitalWatch::GetTime::doAction' -  (Operation)" />
+  <Message Timestamp="2015-03-31T12:29:20" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::DigitalWatch::GetTime::doAction::time' -  (Parameter)" />
+  <Message Timestamp="2015-03-31T12:29:20" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::DigitalWatch::GetTime::GetTime' -  (Operation)" />
+  <Message Timestamp="2015-03-31T12:29:20" Importance="Medium" Text="Element reverse engineered into the UML model: 'ModelingProject1::DigitalWatch::GetTwelveHourNotation' -  (Class)" />
+  <Message Timestamp="2015-03-31T12:29:20" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::DigitalWatch::GetTwelveHourNotation::doAction' -  (Operation)" />
+  <Message Timestamp="2015-03-31T12:29:20" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::DigitalWatch::GetTwelveHourNotation::doAction::time' -  (Parameter)" />
+  <Message Timestamp="2015-03-31T12:29:20" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::DigitalWatch::GetTwelveHourNotation::GetTwelveHourNotation' -  (Operation)" />
+  <Message Timestamp="2015-03-31T12:29:20" Importance="Medium" Text="Element reverse engineered into the UML model: 'ModelingProject1::DigitalWatch::IAPI' -  (Interface)" />
+  <Message Timestamp="2015-03-31T12:29:20" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::DigitalWatch::IAPI::doAction' -  (Operation)" />
+  <Message Timestamp="2015-03-31T12:29:20" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::DigitalWatch::IAPI::doAction::networkTimeClient' -  (Parameter)" />
+  <Message Timestamp="2015-03-31T12:29:20" Importance="Medium" Text="Element reverse engineered into the UML model: 'ModelingProject1::DigitalWatch::IStrategy' -  (Interface)" />
+  <Message Timestamp="2015-03-31T12:29:20" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::DigitalWatch::IStrategy::doAction' -  (Operation)" />
+  <Message Timestamp="2015-03-31T12:29:20" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::DigitalWatch::IStrategy::doAction::time' -  (Parameter)" />
+  <Message Timestamp="2015-03-31T12:29:20" Importance="Medium" Text="Element reverse engineered into the UML model: 'ModelingProject1::DigitalWatch::ITarget' -  (Interface)" />
+  <Message Timestamp="2015-03-31T12:29:20" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::DigitalWatch::ITarget::getTime' -  (Operation)" />
+  <Message Timestamp="2015-03-31T12:29:20" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::DigitalWatch::ITarget::getTime::time' -  (Parameter)" />
+  <Message Timestamp="2015-03-31T12:29:20" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::DigitalWatch::NetworkTime' -  (Package)" />
+  <Message Timestamp="2015-03-31T12:29:20" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::DigitalWatch::NetworkTime::NetworkTimeClient' -  (Class)   (partially reverse engineered - definition not updated) " />
+  <Message Timestamp="2015-03-31T12:29:20" Importance="Medium" Text="Element reverse engineered into the UML model: 'ModelingProject1::DigitalWatch::Program' -  (Class)" />
+  <Message Timestamp="2015-03-31T12:29:20" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::DigitalWatch::Program::Main' -  (Operation)" />
+  <Message Timestamp="2015-03-31T12:29:20" Importance="Medium" Text="Element reverse engineered into the UML model: 'ModelingProject1::DigitalWatch::Proxy' -  (Class)" />
+  <Message Timestamp="2015-03-31T12:29:20" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::DigitalWatch::Proxy::api' -  (Property)" />
+  <Message Timestamp="2015-03-31T12:29:20" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::DigitalWatch::Proxy::doAction' -  (Operation)" />
+  <Message Timestamp="2015-03-31T12:29:20" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::DigitalWatch::Proxy::doAction::networkTimeClient' -  (Parameter)" />
+  <Message Timestamp="2015-03-31T12:29:20" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::DigitalWatch::Proxy::Proxy' -  (Operation)" />
+  <Message Timestamp="2015-03-31T12:29:20" Importance="Medium" Text="Element reverse engineered into the UML model: 'ModelingProject1::DigitalWatch::Segment' -  (Class)" />
+  <Message Timestamp="2015-03-31T12:29:20" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::DigitalWatch::Segment::getState' -  (Operation)" />
+  <Message Timestamp="2015-03-31T12:29:20" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::DigitalWatch::Segment::off' -  (Operation)" />
+  <Message Timestamp="2015-03-31T12:29:20" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::DigitalWatch::Segment::on' -  (Operation)" />
+  <Message Timestamp="2015-03-31T12:29:20" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::DigitalWatch::Segment::Segment' -  (Operation)" />
+  <Message Timestamp="2015-03-31T12:29:20" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::DigitalWatch::Segment::state' -  (Property)" />
+  <Message Timestamp="2015-03-31T12:29:20" Importance="Medium" Text="Element reverse engineered into the UML model: 'ModelingProject1::DigitalWatch::SegmentDisplay' -  (Class)" />
+  <Message Timestamp="2015-03-31T12:29:20" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::DigitalWatch::SegmentDisplay::digitSegments' -  (Property)" />
+  <Message Timestamp="2015-03-31T12:29:20" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::DigitalWatch::SegmentDisplay::SegmentDisplay' -  (Operation)" />
+  <Message Timestamp="2015-03-31T12:29:20" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::DigitalWatch::SegmentDisplay::segments' -  (Property)" />
+  <Message Timestamp="2015-03-31T12:29:20" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::DigitalWatch::SegmentDisplay::update' -  (Operation)" />
+  <Message Timestamp="2015-03-31T12:29:20" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::DigitalWatch::SegmentDisplay::update::value' -  (Parameter)" />
+  <Message Timestamp="2015-03-31T12:29:20" Importance="Medium" Text="Element reverse engineered into the UML model: 'ModelingProject1::DigitalWatch::Time' -  (Class)" />
+  <Message Timestamp="2015-03-31T12:29:20" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::DigitalWatch::Time::getTime' -  (Operation)" />
+  <Message Timestamp="2015-03-31T12:29:20" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::DigitalWatch::Time::incrementTime' -  (Operation)" />
+  <Message Timestamp="2015-03-31T12:29:20" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::DigitalWatch::Time::limit' -  (Property)" />
+  <Message Timestamp="2015-03-31T12:29:20" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::DigitalWatch::Time::setTime' -  (Operation)" />
+  <Message Timestamp="2015-03-31T12:29:20" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::DigitalWatch::Time::setTime::time' -  (Parameter)" />
+  <Message Timestamp="2015-03-31T12:29:20" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::DigitalWatch::Time::time' -  (Property)" />
+  <Message Timestamp="2015-03-31T12:29:20" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::DigitalWatch::Time::Time' -  (Operation)" />
+  <Message Timestamp="2015-03-31T12:29:20" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::DigitalWatch::Time::Time::limit' -  (Parameter)" />
+  <Message Timestamp="2015-03-31T12:29:20" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::DigitalWatch::Time::Time::time' -  (Parameter)" />
+  <Message Timestamp="2015-03-31T12:29:20" Importance="Medium" Text="Element reverse engineered into the UML model: 'ModelingProject1::DigitalWatch::TimeAdapter' -  (Class)" />
+  <Message Timestamp="2015-03-31T12:29:20" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::DigitalWatch::TimeAdapter::getTime' -  (Operation)" />
+  <Message Timestamp="2015-03-31T12:29:20" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::DigitalWatch::TimeAdapter::getTime::time' -  (Parameter)" />
+  <Message Timestamp="2015-03-31T12:29:20" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::DigitalWatch::TimeAdapter::TimeAdapter' -  (Operation)" />
+  <Message Timestamp="2015-03-31T12:29:20" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::DigitalWatch::TimeAdapter::twelveHourNotation' -  (Property)" />
+  <Message Timestamp="2015-03-31T12:29:20" Importance="Medium" Text="Element reverse engineered into the UML model: 'ModelingProject1::DigitalWatch::TwelveHourNotation' -  (Class)" />
+  <Message Timestamp="2015-03-31T12:29:20" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::DigitalWatch::TwelveHourNotation::getTimeInTwelveHourNotation' -  (Operation)" />
+  <Message Timestamp="2015-03-31T12:29:20" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::DigitalWatch::TwelveHourNotation::getTimeInTwelveHourNotation::time' -  (Parameter)" />
+  <Message Timestamp="2015-03-31T12:29:20" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::DigitalWatch::TwelveHourNotation::TwelveHourNotation' -  (Operation)" />
+  <Message Timestamp="2015-03-31T12:29:20" Importance="Medium" Text="Element reverse engineered into the UML model: 'ModelingProject1::DigitalWatch::Watch' -  (Class)" />
+  <Message Timestamp="2015-03-31T12:29:20" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::DigitalWatch::Watch::backgroundWorker1' -  (Property)" />
+  <Message Timestamp="2015-03-31T12:29:20" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::DigitalWatch::Watch::bindingSource1' -  (Property)" />
+  <Message Timestamp="2015-03-31T12:29:20" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::DigitalWatch::Watch::bindingSource2' -  (Property)" />
+  <Message Timestamp="2015-03-31T12:29:20" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::DigitalWatch::Watch::btnIncrement' -  (Property)" />
+  <Message Timestamp="2015-03-31T12:29:20" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::DigitalWatch::Watch::btnIncrement_Click' -  (Operation)" />
+  <Message Timestamp="2015-03-31T12:29:20" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::DigitalWatch::Watch::btnIncrement_Click::e' -  (Parameter)" />
+  <Message Timestamp="2015-03-31T12:29:20" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::DigitalWatch::Watch::btnIncrement_Click::sender' -  (Parameter)" />
+  <Message Timestamp="2015-03-31T12:29:20" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::DigitalWatch::Watch::btnIncrement_MouseUp' -  (Operation)" />
+  <Message Timestamp="2015-03-31T12:29:20" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::DigitalWatch::Watch::btnIncrement_MouseUp::e' -  (Parameter)" />
+  <Message Timestamp="2015-03-31T12:29:20" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::DigitalWatch::Watch::btnIncrement_MouseUp::sender' -  (Parameter)" />
+  <Message Timestamp="2015-03-31T12:29:20" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::DigitalWatch::Watch::btnModus' -  (Property)" />
+  <Message Timestamp="2015-03-31T12:29:20" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::DigitalWatch::Watch::btnModus_Click' -  (Operation)" />
+  <Message Timestamp="2015-03-31T12:29:20" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::DigitalWatch::Watch::btnModus_Click::e' -  (Parameter)" />
+  <Message Timestamp="2015-03-31T12:29:20" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::DigitalWatch::Watch::btnModus_Click::sender' -  (Parameter)" />
+  <Message Timestamp="2015-03-31T12:29:20" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::DigitalWatch::Watch::components' -  (Property)" />
+  <Message Timestamp="2015-03-31T12:29:20" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::DigitalWatch::Watch::counter' -  (Property)" />
+  <Message Timestamp="2015-03-31T12:29:20" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::DigitalWatch::Watch::display' -  (Property)" />
+  <Message Timestamp="2015-03-31T12:29:20" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::DigitalWatch::Watch::Dispose' -  (Operation)" />
+  <Message Timestamp="2015-03-31T12:29:20" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::DigitalWatch::Watch::Dispose::disposing' -  (Parameter)" />
+  <Message Timestamp="2015-03-31T12:29:20" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::DigitalWatch::Watch::hour' -  (Property)" />
+  <Message Timestamp="2015-03-31T12:29:20" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::DigitalWatch::Watch::incrementtimer' -  (Property)" />
+  <Message Timestamp="2015-03-31T12:29:20" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::DigitalWatch::Watch::incrementtimer_Tick' -  (Operation)" />
+  <Message Timestamp="2015-03-31T12:29:20" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::DigitalWatch::Watch::incrementtimer_Tick::e' -  (Parameter)" />
+  <Message Timestamp="2015-03-31T12:29:20" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::DigitalWatch::Watch::incrementtimer_Tick::sender' -  (Parameter)" />
+  <Message Timestamp="2015-03-31T12:29:20" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::DigitalWatch::Watch::InitializeComponent' -  (Operation)" />
+  <Message Timestamp="2015-03-31T12:29:20" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::DigitalWatch::Watch::lblAMPM' -  (Property)" />
+  <Message Timestamp="2015-03-31T12:29:20" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::DigitalWatch::Watch::lblColon' -  (Property)" />
+  <Message Timestamp="2015-03-31T12:29:20" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::DigitalWatch::Watch::minute' -  (Property)" />
+  <Message Timestamp="2015-03-31T12:29:20" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::DigitalWatch::Watch::modus' -  (Property)" />
+  <Message Timestamp="2015-03-31T12:29:20" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::DigitalWatch::Watch::secondtimer' -  (Property)" />
+  <Message Timestamp="2015-03-31T12:29:20" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::DigitalWatch::Watch::secondtimer_Tick' -  (Operation)" />
+  <Message Timestamp="2015-03-31T12:29:20" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::DigitalWatch::Watch::secondtimer_Tick::e' -  (Parameter)" />
+  <Message Timestamp="2015-03-31T12:29:20" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::DigitalWatch::Watch::secondtimer_Tick::sender' -  (Parameter)" />
+  <Message Timestamp="2015-03-31T12:29:20" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::DigitalWatch::Watch::segmentDisplay1' -  (Property)" />
+  <Message Timestamp="2015-03-31T12:29:20" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::DigitalWatch::Watch::segmentDisplay2' -  (Property)" />
+  <Message Timestamp="2015-03-31T12:29:20" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::DigitalWatch::Watch::segmentDisplay3' -  (Property)" />
+  <Message Timestamp="2015-03-31T12:29:20" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::DigitalWatch::Watch::segmentDisplay4' -  (Property)" />
+  <Message Timestamp="2015-03-31T12:29:20" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::DigitalWatch::Watch::setStrategy' -  (Operation)" />
+  <Message Timestamp="2015-03-31T12:29:20" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::DigitalWatch::Watch::setStrategy::strategyName' -  (Parameter)" />
+  <Message Timestamp="2015-03-31T12:29:20" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::DigitalWatch::Watch::strategy' -  (Property)" />
+  <Message Timestamp="2015-03-31T12:29:20" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::DigitalWatch::Watch::twelveHourNotation' -  (Property)" />
+  <Message Timestamp="2015-03-31T12:29:20" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::DigitalWatch::Watch::updateDisplay' -  (Operation)" />
+  <Message Timestamp="2015-03-31T12:29:20" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::DigitalWatch::Watch::updateSegments' -  (Operation)" />
+  <Message Timestamp="2015-03-31T12:29:20" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::DigitalWatch::Watch::Watch' -  (Operation)" />
+  <Message Timestamp="2015-03-31T12:29:20" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::System' -  (Package)" />
+  <Message Timestamp="2015-03-31T12:29:20" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::System::ComponentModel' -  (Package)" />
+  <Message Timestamp="2015-03-31T12:29:20" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::System::ComponentModel::BackgroundWorker' -  (Class)   (partially reverse engineered - definition not updated) " />
+  <Message Timestamp="2015-03-31T12:29:20" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::System::ComponentModel::IContainer' -  (Interface)   (partially reverse engineered - definition not updated) " />
+  <Message Timestamp="2015-03-31T12:29:20" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::System::EventArgs' -  (Class)   (partially reverse engineered - definition not updated) " />
+  <Message Timestamp="2015-03-31T12:29:20" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::System::Object' -  (Class)   (partially reverse engineered - definition not updated) " />
+  <Message Timestamp="2015-03-31T12:29:20" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::System::Windows' -  (Package)" />
+  <Message Timestamp="2015-03-31T12:29:20" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::System::Windows::Forms' -  (Package)" />
+  <Message Timestamp="2015-03-31T12:29:20" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::System::Windows::Forms::BindingSource' -  (Class)   (partially reverse engineered - definition not updated) " />
+  <Message Timestamp="2015-03-31T12:29:20" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::System::Windows::Forms::Button' -  (Class)   (partially reverse engineered - definition not updated) " />
+  <Message Timestamp="2015-03-31T12:29:20" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::System::Windows::Forms::Form' -  (Class)   (partially reverse engineered - definition not updated) " />
+  <Message Timestamp="2015-03-31T12:29:20" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::System::Windows::Forms::Label' -  (Class)   (partially reverse engineered - definition not updated) " />
+  <Message Timestamp="2015-03-31T12:29:20" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::System::Windows::Forms::MouseEventArgs' -  (Class)   (partially reverse engineered - definition not updated) " />
+  <Message Timestamp="2015-03-31T12:29:20" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::System::Windows::Forms::Timer' -  (Class)   (partially reverse engineered - definition not updated) " />
+  <Message Timestamp="2015-03-31T12:29:20" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::WindowsFormsControlLibrary1' -  (Package)" />
+  <Message Timestamp="2015-03-31T12:29:20" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::WindowsFormsControlLibrary1::SegmentDisplay' -  (Class)   (partially reverse engineered - definition not updated) " />
+  <Message Timestamp="2015-03-31T12:29:20" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'String' -  (PrimitiveType)" />
+  <Message Timestamp="2015-03-31T12:29:20" Importance="Diagnostic" Text="Relationship reverse engineered into the UML model: ModelingProject1::DigitalWatch::Proxy to ModelingProject1::DigitalWatch::IAPI (InterfaceRealization)" />
+  <Message Timestamp="2015-03-31T12:29:20" Importance="Diagnostic" Text="Relationship reverse engineered into the UML model: ModelingProject1::DigitalWatch::TimeAdapter to ModelingProject1::DigitalWatch::ITarget (InterfaceRealization)" />
+  <Message Timestamp="2015-03-31T12:29:20" Importance="Diagnostic" Text="Relationship reverse engineered into the UML model: ModelingProject1::DigitalWatch::Watch to ModelingProject1::System::Windows::Forms::Form (Generalization)" />
+  <Message Timestamp="2015-03-31T12:29:20" Importance="Diagnostic" Text="Relationship reverse engineered into the UML model: ModelingProject1::DigitalWatch::API to ModelingProject1::DigitalWatch::IAPI (InterfaceRealization)" />
+  <Message Timestamp="2015-03-31T12:29:20" Importance="Diagnostic" Text="Relationship reverse engineered into the UML model: ModelingProject1::DigitalWatch::GetTime to ModelingProject1::DigitalWatch::IStrategy (InterfaceRealization)" />
+  <Message Timestamp="2015-03-31T12:29:20" Importance="Diagnostic" Text="Relationship reverse engineered into the UML model: ModelingProject1::DigitalWatch::GetTwelveHourNotation to ModelingProject1::DigitalWatch::IStrategy (InterfaceRealization)" />
+  <Message Timestamp="2015-03-31T12:29:20" Importance="Diagnostic" Text="Relationship reverse engineered into the UML model: ModelingProject1::System::Windows::Forms::MouseEventArgs to ModelingProject1::System::EventArgs (Generalization)" />
+  <Message Timestamp="2015-03-31T12:29:20" Importance="High" Text="(15) type(s) fully reverse engineered." />
+  <Message Timestamp="2015-03-31T12:29:20" Importance="High" Text="(12) type(s) partially reverse engineered.  These types were not included in the original selection so their full definitions are not reverse engineered.  Instead, this shallow operation has simply ensured these types exist in the UML model because they are needed in order to fully describe other elements." />
+  <Message Timestamp="2015-03-31T12:29:20" Importance="High" Text="The reverse engineering operation completed with (0) error(s), and (0) warning(s)." />
+</Log>

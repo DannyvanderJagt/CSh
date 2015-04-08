@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" xmlns:dm1="http://schemas.microsoft.com/dsltools/Kernel" xmlns:dm2="http://schemas.microsoft.com/dsltools/Component" xmlns:dm3="http://schemas.microsoft.com/dsltools/UseCase" xmlns:dm4="http://schemas.microsoft.com/dsltools/Activity" xmlns:dm5="http://schemas.microsoft.com/dsltools/Interaction" xmlns:dm6="http://schemas.microsoft.com/dsltools/UmlModelLibrary" xmlns:dm7="http://schemas.microsoft.com/dsltools/UmlDiagrams" xmlns:dm8="http://schemas.microsoft.com/dsltools/LogicalClassDesigner"
+  dslVersion="1.0.0.0"
+  Id="1a5d1d74-1cfb-4ce3-bd8f-6eb45d2e4518"
+  name="WindowsFormsControlLibrary1"
+  visibility="Private" xmlns="http://schemas.microsoft.com/dsltools/ModelStore">
+  <referencesInternal>
+    <reference
+      Id="2e1f070c-0a88-4142-b06e-589e6110ca39"
+      handle="viewcode://./CodeSchema_Namespace?Namespace%3DWindowsFormsControlLibrary1"
+      tag="ViewCode" />
+  </referencesInternal>
+  <packagedElements>
+    <packageHasNamedElement>
+      <class
+        Id="601b2560-9c86-4f34-946d-f707b4460415"
+        name="SegmentDisplay"
+        isAbstract="false"
+        isLeaf="false"
+        isActiveClass="false">
+        <referencesInternal>
+          <reference
+            Id="c26d0725-4a00-495d-8e6c-d749621f988b"
+            handle="viewcode://./CodeSchema_Class?Assembly%3D&quot;file:%2F%2F%2FD:%2FDropbox%2FKernwerk%2FDigital Watch%2FDigitalWatch%2FWindowsFormsControlLibrary1%2Fbin%2FDebug%2FWindowsFormsControlLibrary1.dll&quot; Namespace%3DWindowsFormsControlLibrary1 Type%3DSegmentDisplay"
+            tag="ViewCode" />
+        </referencesInternal>
+        <appliedStereotypesInternal>
+          <stereotypeInstance
+            Id="6e26105a-8dca-4f8e-8262-f9697505063b"
+            name="class"
+            profile="CSharpProfile">
+            <propertyInstances>
+              <stereotypeInstanceHasPropertyInstances
+                Id="8010d9cb-32de-4d28-b45b-2e447ee91c11">
+                <propertyInstance
+                  Id="27d38e00-d957-4c2d-abb7-13f63e8eefef"
+                  name="ClrAttributes" />
+              </stereotypeInstanceHasPropertyInstances>
+              <stereotypeInstanceHasPropertyInstances
+                Id="3d7372fa-e91c-41e9-9ef3-38e754169066">
+                <propertyInstance
+                  Id="5bff99cb-e0a6-414e-904f-d90da43e5e93"
+                  name="IsPartial"
+                  value="false" />
+              </stereotypeInstanceHasPropertyInstances>
+              <stereotypeInstanceHasPropertyInstances
+                Id="2bb046ad-b88a-4489-90c5-3696e32f279d">
+                <propertyInstance
+                  Id="b37bb511-1550-4e67-bb91-4bf5ea4e2ea2"
+                  name="IsStatic"
+                  value="False" />
+              </stereotypeInstanceHasPropertyInstances>
+              <stereotypeInstanceHasPropertyInstances
+                Id="ea9ba9d6-1a17-4856-808b-046c77a0d027">
+                <propertyInstance
+                  Id="cd0d58db-9a9c-4177-83f1-36fb290698b6"
+                  name="IsUnsafe"
+                  value="false" />
+              </stereotypeInstanceHasPropertyInstances>
+              <stereotypeInstanceHasPropertyInstances
+                Id="53f4b668-12a1-4622-ab21-15d98ea529e0">
+                <propertyInstance
+                  Id="74c7c2fc-371b-4f27-b68a-02171347bab1"
+                  name="PackageVisibility"
+                  value="internal" />
+              </stereotypeInstanceHasPropertyInstances>
+            </propertyInstances>
+          </stereotypeInstance>
+        </appliedStereotypesInternal>
+      </class>
+    </packageHasNamedElement>
+  </packagedElements>
+</package>

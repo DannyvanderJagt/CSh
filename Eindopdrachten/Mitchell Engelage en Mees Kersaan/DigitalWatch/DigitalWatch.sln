@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DigitalWatch", "DigitalWatch\DigitalWatch.csproj", "{DCAF0311-534D-4A14-9328-BC933E2137B2}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{69F4E127-2376-41B4-A4EB-774ACD995E82}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\..\Bureaublad\watch.jpg = ..\..\..\..\Bureaublad\watch.jpg
+	EndProjectSection
+EndProject
+Project("{F088123C-0E9E-452A-89E6-6BA2F21D5CAC}") = "ModelingProject1", "ModelingProject1\ModelingProject1.modelproj", "{75CCB162-C0EA-4E66-9570-0CA1ED066C47}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DCAF0311-534D-4A14-9328-BC933E2137B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCAF0311-534D-4A14-9328-BC933E2137B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCAF0311-534D-4A14-9328-BC933E2137B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCAF0311-534D-4A14-9328-BC933E2137B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75CCB162-C0EA-4E66-9570-0CA1ED066C47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75CCB162-C0EA-4E66-9570-0CA1ED066C47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75CCB162-C0EA-4E66-9570-0CA1ED066C47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75CCB162-C0EA-4E66-9570-0CA1ED066C47}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
