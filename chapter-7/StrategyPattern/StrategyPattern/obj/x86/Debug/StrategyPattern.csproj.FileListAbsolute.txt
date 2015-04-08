@@ -1,0 +1,36 @@
+c:\documents and settings\eigenaar\mijn documenten\visual studio 2010\Projects\StrategyPattern\StrategyPattern\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\eigenaar\mijn documenten\visual studio 2010\Projects\StrategyPattern\StrategyPattern\obj\x86\Debug\StrategyPattern.Properties.Resources.resources
+c:\documents and settings\eigenaar\mijn documenten\visual studio 2010\Projects\StrategyPattern\StrategyPattern\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\documents and settings\eigenaar\mijn documenten\visual studio 2010\Projects\StrategyPattern\StrategyPattern\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\documents and settings\eigenaar\mijn documenten\visual studio 2010\Projects\StrategyPattern\StrategyPattern\bin\Debug\StrategyPattern.exe
+c:\documents and settings\eigenaar\mijn documenten\visual studio 2010\Projects\StrategyPattern\StrategyPattern\bin\Debug\StrategyPattern.pdb
+c:\documents and settings\eigenaar\mijn documenten\visual studio 2010\Projects\StrategyPattern\StrategyPattern\obj\x86\Debug\StrategyPattern.exe
+c:\documents and settings\eigenaar\mijn documenten\visual studio 2010\Projects\StrategyPattern\StrategyPattern\obj\x86\Debug\StrategyPattern.pdb
+c:\documents and settings\eigenaar\mijn documenten\visual studio 2010\Projects\StrategyPattern\StrategyPattern\obj\x86\Debug\StrategyPattern.Form1.resources
+C:\Documents and Settings\Eigenaar\Mijn documenten\Dropbox\Kernwerk\StrategyPattern\StrategyPattern\obj\x86\Debug\StrategyPattern.exe
+C:\Documents and Settings\Eigenaar\Mijn documenten\Dropbox\Kernwerk\StrategyPattern\StrategyPattern\obj\x86\Debug\StrategyPattern.pdb
+C:\Documents and Settings\Eigenaar\Mijn documenten\Dropbox\Kernwerk\StrategyPattern\StrategyPattern\bin\Debug\StrategyPattern.exe
+C:\Documents and Settings\Eigenaar\Mijn documenten\Dropbox\Kernwerk\StrategyPattern\StrategyPattern\bin\Debug\StrategyPattern.pdb
+C:\Documents and Settings\Eigenaar\Mijn documenten\Dropbox\Kernwerk\StrategyPattern\StrategyPattern\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Eigenaar\Mijn documenten\Dropbox\Kernwerk\StrategyPattern\StrategyPattern\obj\x86\Debug\StrategyPattern.Form1.resources
+C:\Documents and Settings\Eigenaar\Mijn documenten\Dropbox\Kernwerk\StrategyPattern\StrategyPattern\obj\x86\Debug\StrategyPattern.Properties.Resources.resources
+C:\Documents and Settings\Eigenaar\Mijn documenten\Dropbox\Kernwerk\StrategyPattern\StrategyPattern\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Eigenaar\Mijn documenten\Dropbox\Kernwerk\StrategyPattern\StrategyPattern\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Dropbox\Kernwerk\StrategyPattern\StrategyPattern\obj\x86\Debug\StrategyPattern.exe
+D:\Dropbox\Kernwerk\StrategyPattern\StrategyPattern\obj\x86\Debug\StrategyPattern.pdb
+D:\Dropbox\Kernwerk\StrategyPattern\StrategyPattern\bin\Debug\StrategyPattern.exe
+D:\Dropbox\Kernwerk\StrategyPattern\StrategyPattern\bin\Debug\StrategyPattern.pdb
+D:\Dropbox\Kernwerk\StrategyPattern\StrategyPattern\obj\x86\Debug\StrategyPattern.csprojResolveAssemblyReference.cache
+D:\Dropbox\Kernwerk\StrategyPattern\StrategyPattern\obj\x86\Debug\StrategyPattern.Form1.resources
+D:\Dropbox\Kernwerk\StrategyPattern\StrategyPattern\obj\x86\Debug\StrategyPattern.Properties.Resources.resources
+D:\Dropbox\Kernwerk\StrategyPattern\StrategyPattern\obj\x86\Debug\StrategyPattern.csproj.GenerateResource.Cache
+C:\Users\Mees\Dropbox\Kernwerk\StrategyPattern\StrategyPattern\obj\x86\Debug\StrategyPattern.exe
+C:\Users\Mees\Dropbox\Kernwerk\StrategyPattern\StrategyPattern\obj\x86\Debug\StrategyPattern.pdb
+F:\Mees Mitchell\Strategy pattern presentatie hoofdstuk 7\StrategyPattern\StrategyPattern\obj\x86\Debug\StrategyPattern.exe
+F:\Mees Mitchell\Strategy pattern presentatie hoofdstuk 7\StrategyPattern\StrategyPattern\obj\x86\Debug\StrategyPattern.pdb
+F:\Mees Mitchell\Strategy pattern presentatie hoofdstuk 7\StrategyPattern\StrategyPattern\bin\Debug\StrategyPattern.exe
+F:\Mees Mitchell\Strategy pattern presentatie hoofdstuk 7\StrategyPattern\StrategyPattern\bin\Debug\StrategyPattern.pdb
+F:\Mees Mitchell\Strategy pattern presentatie hoofdstuk 7\StrategyPattern\StrategyPattern\obj\x86\Debug\StrategyPattern.csprojResolveAssemblyReference.cache
+F:\Mees Mitchell\Strategy pattern presentatie hoofdstuk 7\StrategyPattern\StrategyPattern\obj\x86\Debug\StrategyPattern.Form1.resources
+F:\Mees Mitchell\Strategy pattern presentatie hoofdstuk 7\StrategyPattern\StrategyPattern\obj\x86\Debug\StrategyPattern.Properties.Resources.resources
+F:\Mees Mitchell\Strategy pattern presentatie hoofdstuk 7\StrategyPattern\StrategyPattern\obj\x86\Debug\StrategyPattern.csproj.GenerateResource.Cache
