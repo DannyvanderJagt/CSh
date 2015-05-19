@@ -1,4 +1,5 @@
-## !!! De eindopdrachten kunnen worden geplaatst in de map eindopdrachten !!!
+##### Deze repo is nu gesloten. Het vak is afgelopen en daardoor zal deze repo niet meer geupdate worden.
+
 
 # C# Design Patterns
 Een gezamelijke repository voor het vak C# Design Patterns.
@@ -12,3 +13,5 @@ Een gezamelijke repository voor het vak C# Design Patterns.
 * Uitleg
 * Voorbeelden van hoe je het kan gebruiken.
 * Code voorbeeld.
+
+#### !!! De eindopdrachten kunnen worden geplaatst in de map eindopdrachten !!!
